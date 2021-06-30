@@ -1,4 +1,12 @@
-### Hi there 👋
+<!-- # Hi there 👋 -->
+
+### - I’m currently looking for a job so if you or anybody you know is hiring let me know :) 
+
+#### - Pronouns: He/Him
+
+#### - [LinkedIn](https://www.linkedin.com/in/randyarbolaez)
+
+#### - [Portfolio](https://portfolio-randyarbolaez0.vercel.app/)
 
 <!--
 **randyarbolaez/randyarbolaez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
