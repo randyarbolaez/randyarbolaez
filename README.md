@@ -1,7 +1,5 @@
 <!-- # Hi there 👋 -->
 
-### - I’m currently looking for a job so if you or anybody you know is hiring let me know :) 
-
 #### - Pronouns: He/Him
 
 #### - [LinkedIn](https://www.linkedin.com/in/randyarbolaez)
