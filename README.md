@@ -2,9 +2,7 @@
 
 #### - Pronouns: He/Him
 
-#### - [LinkedIn](https://www.linkedin.com/in/randyarbolaez)
-
-#### - [Portfolio](https://portfolio-randyarbolaez0.vercel.app/)
+### [LinkedIn](https://www.linkedin.com/in/randyarbolaez) | [Portfolio](https://portfolio-randyarbolaez0.vercel.app/)
 
 <!--
 **randyarbolaez/randyarbolaez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
